@@ -193,17 +193,6 @@ section h2{width: 75%;margin: 0 auto 50px;color: #db00af}
     .section1 ul{padding-top: 20px}
     .section1 li{width: 100%;margin-left: 0}
     .section1 li:nth-child(3n+1){margin-left: 0}
-    .section1 li .s1_box_img{background-size: 100%}
-    .section1 li.kumsung .s1_box_img{background-image: url(../images/portfolio/m_pf_01.png);background-size:100%}
-    .section1 li.ido .s1_box_img{background-image: url(../images/portfolio/m_pf_08.png)}
-    .section1 li.socialerus1 .s1_box_img{background-image: url(../images/portfolio/m_pf_02.png)}
-    .section1 li.socialerus2 .s1_box_img{background-image: url(../images/portfolio/m_pf_11.png)}
-    .section1 li.mcn .s1_box_img{background-image: url(../images/portfolio/m_pf_09.png)}
-    .section1 li.medicore .s1_box_img{background-image: url(../images/portfolio/m_pf_07.png)}
-    .section1 li.suprema .s1_box_img{background-image: url(../images/portfolio/m_pf_04.png)}
-    .section1 li.sgpp .s1_box_img{background-image: url(../images/portfolio/m_pf_05.png)}
-    .section1 li.baf .s1_box_img{background-image: url(../images/portfolio/m_pf_06.png)}
-    .section1 li.copin .s1_box_img{background-image: url(../images/portfolio/m_pf_10.png)}
     .s1_box_desc h3{font-size: 14px}
     .s1_box_desc p{font-size: 13px}
 
