@@ -22,7 +22,7 @@ $(document).ready(function() {
     };
     
 //    skill 소개
-    var val_count=[90,90,60,100];
+    var val_count=[85,80,60,100];
     chart_event_1(val_count,'chart-area1');
     
     function chart_event_1(val_1,canvasId){
@@ -37,7 +37,7 @@ $(document).ready(function() {
                 }],
                 labels: [
                     "HTML(5)/CSS(3)",
-                    "JavaScript/JQuery",
+                    "JQuery",
                     "Photoshop",
                     "성실함"
                 ]
